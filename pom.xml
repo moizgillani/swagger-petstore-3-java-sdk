@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.apimatic</groupId>
   <artifactId>swagger-petstore-3-sdk</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.4</version>
   <packaging>jar</packaging>
   <name>Swagger Petstore 3.0 SDK</name>
   <description>This is a sample Pet Store Server based on the OpenAPI 3.0 specification.</description>
